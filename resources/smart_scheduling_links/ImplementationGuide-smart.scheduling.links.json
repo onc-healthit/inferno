@@ -90,6 +90,13 @@
       },
       {
         "reference": {
+          "reference": "ValueSet/vaccine-product-cvx"
+        },
+        "name": "VaccineProductCVX",
+        "exampleBoolean": false
+      },
+      {
+        "reference": {
           "reference": "ValueSet/vaccine-slot-status"
         },
         "name": "VaccineSlotStatus",

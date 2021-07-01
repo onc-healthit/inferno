@@ -1,0 +1,15 @@
+{
+  "resourceType": "ValueSet",
+  "status": "active",
+  "name": "VaccineProductCVX",
+  "id": "vaccine-product-cvx",
+  "version": "0.1.0",
+  "url": "http://fhir-registry.smarthealthit.org/ValueSet/vaccine-product-cvx",
+  "compose": {
+    "include": [
+      {
+        "system": "http://hl7.org/fhir/sid/cvx"
+      }
+    ]
+  }
+}
